@@ -15,4 +15,21 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"X13M3G]PZ%D-Eo[m3bBT"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="0_wC.v}W~GEqOJ1PQmr4"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"X13M3G]PZ%D-Eo[m3bBT"}}</data></shadow><block type="screen_image_picker" id="Y5_G*ac-[9rBSH+Ri$IE"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . 3 . . . . . . . . . . . 
+. . . . 3 3 3 . . . . . . . . . 
+. . . . 3 3 3 . 3 3 . 3 . . . . 
+. . . . 3 3 3 . 3 3 3 . . . . . 
+. . . . 3 3 3 . 3 3 3 . . . . . 
+. . . . 3 . 3 . 3 3 3 . . . . . 
+. . . . 3 . 3 . 3 3 3 . . . . . 
+. . . . 3 . . 3 3 3 3 . . . . . 
+. . . . . . . 3 3 . 3 . . . . . 
+. . . . . . . 3 . . 3 . . . . . 
+. . . . . . . . . . 3 . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"Y5_G*ac-[9rBSH+Ri$IE"}}</data></block></value><value name="kind"><shadow type="spritekind" id="0_wC.v}W~GEqOJ1PQmr4"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
